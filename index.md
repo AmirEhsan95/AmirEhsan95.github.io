@@ -12,8 +12,8 @@ I am a last-year Ph.D. student at the University of Basel and a visiting researc
 
 ## News
 
-* Jan 2024: Our recent preprint is now available on ArXiv.
-* Nov 2023: Our paper "Conditional Injective Flows for Bayesian Imaging" is among the top 25 most downloaded papers in IEEE Transactions on Computational Imaging (TCI) from Sept. 2022 - Sept. 2023.
+* **Jan 2024**: Our recent preprint is now available on ArXiv.
+* **Nov 2023**: Our paper "Conditional Injective Flows for Bayesian Imaging" is among the top 25 most downloaded papers in IEEE Transactions on Computational Imaging (TCI) from Sept. 2022 - Sept. 2023.
 * Aug 2023: Our paper "Deep Injective Prior for Inverse Scattering" has been accepted by IEEE Transactions on Antennas and Propagation.
 * July 2023: I am awarded a grant by the Promotion of Young Talent at the University of Basel to spend 9 months as a visiting scholar at University College London (UCL), focused on leveraging deep generative models for astrophysics in Prof. Jason McEwen's group. 
 * Feb 2023: Our paper "Conditional Injective Flows for Bayesian Imaging" has been accepted by IEEE Transactions on Computational Imaging.
@@ -22,8 +22,21 @@ I am a last-year Ph.D. student at the University of Basel and a visiting researc
 * Jun 2021: Our paper has been accepted by the Conference on Uncertainty in Artificial Intelligence (UAI 2021).
 * April 2020: I started my Ph.D. at the SADA group, University of Basel.
 
+<br>
+
 ## Research
 My research lies at the intersection of deep learning and computational imaging. I am interested in building deep learning architectures for solving scientific inverse problems. My main focus is on generative models, and neural fields and representation learning. 
+
+
+<div style="float: left; margin-right: 30px;">
+  <img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="250">
+</div>
+Deep Injective Prior for Inverse Scattering
+AmirEhsan Khorashadizadeh, Vahid Khorashadizadeh, Sepehr Eskandari, Guy A.E. Vandenbosch and Ivan Dokmanić
+IEEE Transactions on Antennas and Propagation, 2023
+
+
+
 
 
 
