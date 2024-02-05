@@ -28,12 +28,23 @@ I am a last-year Ph.D. student at the University of Basel and a visiting researc
 My research lies at the intersection of deep learning and computational imaging. I am interested in building deep learning architectures for solving scientific inverse problems. My main focus is on generative models, and neural fields and representation learning. 
 
 
+<br><br>
+
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="250">
 </div>
-Deep Injective Prior for Inverse Scattering
+** Deep Injective Prior for Inverse Scattering **
 AmirEhsan Khorashadizadeh, Vahid Khorashadizadeh, Sepehr Eskandari, Guy A.E. Vandenbosch and Ivan Dokmanić
 IEEE Transactions on Antennas and Propagation, 2023
+
+<br><br>
+<div style="float: left; margin-right: 30px;">
+  <img src="https://sada.dmi.unibas.ch/gallery/preview/186/screenshot-2023-01-02-at-20-49-14@2x.png" width="250">
+</div>
+** FunkNN: Neural Interpolation for Functional Generation **
+AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot and Ivan Dokmanić
+ICLR, 2023
+
 
 
 
