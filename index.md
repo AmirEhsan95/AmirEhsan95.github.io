@@ -69,6 +69,7 @@ AmirEhsan Khorashadizadeh, Konik Kothari, Leonardo Salsi, Ali Aghababaei Harandi
 
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/184/screenshot-2023-01-02-at-15-53-58@2x.png" width="350">
+  <br><br>
 </div>
 **Deep Variational Inverse Scattering** <br>
 Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
@@ -84,7 +85,7 @@ Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
 **Trumpets: Injective flows for inference and inverse problems** <br>
 Konik Kothari, AmirEhsan Khorashadizadeh, Maarten de Hoop and Ivan Dokmanić <br>
 **UAI 2021** <br> <br>
-<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/trumpets)
+[<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/trumpets)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2102.10461)
 
 
