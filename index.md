@@ -31,7 +31,7 @@ My research lies at the intersection of deep learning and computational imaging.
 <br><br>
 
 <div style="float: left; margin-right: 30px;">
-  <img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="250">
+  <img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="400">
 </div>
 **Deep Injective Prior for Inverse Scattering** <br>
 AmirEhsan Khorashadizadeh, Vahid Khorashadizadeh, Sepehr Eskandari, Guy A.E. Vandenbosch and Ivan Dokmanić <br>
