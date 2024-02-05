@@ -35,7 +35,7 @@ My research lies at the intersection of deep learning and computational imaging.
 </div>
 **Deep Injective Prior for Inverse Scattering** <br>
 AmirEhsan Khorashadizadeh, Vahid Khorashadizadeh, Sepehr Eskandari, Guy A.E. Vandenbosch and Ivan Dokmanić <br>
-IEEE Transactions on Antennas and Propagation 2023 <br> <br>
+**IEEE Transactions on Antennas and Propagation 2023** <br> <br>
 [<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/scattering_injective_prior)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2301.03092)
 
@@ -44,10 +44,11 @@ IEEE Transactions on Antennas and Propagation 2023 <br> <br>
 
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/186/screenshot-2023-01-02-at-20-49-14@2x.png" width="350">
+  <br> <br>
 </div>
 **FunkNN: Neural Interpolation for Functional Generation** <br>
 AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot and Ivan Dokmanić <br>
-ICLR 2023 <br> <br>
+**ICLR 2023** <br> <br>
 [<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="30px">](https://sada.dmi.unibas.ch/en/research/implicit-neural-representation) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/FunkNN)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2204.07664)
 
@@ -59,7 +60,7 @@ ICLR 2023 <br> <br>
 </div>
 **Conditional Injective Flows for Bayesian Imaging** <br>
 AmirEhsan Khorashadizadeh, Konik Kothari, Leonardo Salsi, Ali Aghababaei Harandi, Maarten de Hoop and Ivan Dokmanić <br>
-IEEE Transactions on Computational Imaging 2023 <br> <br>
+**IEEE Transactions on Computational Imaging 2023** <br> <br>
 [<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/conditional-trumpets)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2204.07664)
 
