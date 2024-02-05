@@ -31,23 +31,25 @@ My research lies at the intersection of deep learning and computational imaging.
 <br><br>
 
 <div style="float: left; margin-right: 30px;">
-  <img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="400">
+  <img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="350">
 </div>
 **Deep Injective Prior for Inverse Scattering** <br>
 AmirEhsan Khorashadizadeh, Vahid Khorashadizadeh, Sepehr Eskandari, Guy A.E. Vandenbosch and Ivan Dokmanić <br>
-IEEE Transactions on Antennas and Propagation, 2023
-[<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="42px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="40px">](https://github.com/swing-research/scattering_injective_prior)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="40px">](https://arxiv.org/abs/2301.03092)
+IEEE Transactions on Antennas and Propagation 2023 <br>
+[<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="30px">](https://github.com/swing-research/scattering_injective_prior)
+&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2301.03092)
 
 
 <br><br>
 
 <div style="float: left; margin-right: 30px;">
-  <img src="https://sada.dmi.unibas.ch/gallery/preview/186/screenshot-2023-01-02-at-20-49-14@2x.png" width="250">
+  <img src="https://sada.dmi.unibas.ch/gallery/preview/149/screenshot-2022-05-17-at-18-01-42@2x.png" width="350">
 </div>
 **FunkNN: Neural Interpolation for Functional Generation** <br>
 AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot and Ivan Dokmanić <br>
-ICLR, 2023
+ICLR 2023 <br>
+[<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="30px">](https://sada.dmi.unibas.ch/en/research/implicit-neural-representation) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="30px">](https://github.com/swing-research/FunkNN)
+&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2204.07664)
 
 
 
