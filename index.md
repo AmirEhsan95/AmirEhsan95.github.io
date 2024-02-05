@@ -85,7 +85,7 @@ AmirEhsan Khorashadizadeh, Ali Aghababaei, Tin Vlavsić, Hieu Nguyen and Ivan Do
 </div>
 **Implicit Neural Representation for Mesh-Free Inverse Obstacle Scattering** <br>
 Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
-**Asilomar Conference on Signals, Systems, and Computers, 2022** <br> <br>
+**Asilomar Conference on Signals, Systems, and Computers 2022** <br> <br>
 [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2206.02027)
 
 
@@ -93,6 +93,7 @@ Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
 
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/110/networkat2x@2x.png" width="350">
+  <br> <br>
 </div>
 **Trumpets: Injective flows for inference and inverse problems** <br>
 Konik Kothari, AmirEhsan Khorashadizadeh, Maarten de Hoop and Ivan Dokmanić <br>
