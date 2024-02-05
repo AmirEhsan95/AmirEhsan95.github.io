@@ -1,13 +1,13 @@
 
 <div style="float: right; margin-left: 40px;">
-  <img src="https://sada.dmi.unibas.ch/gallery/full/146/70739@2x.jpg" style="border-radius: 50%;" width="200">
+  <img src="figures/photo.jpg" style="border-radius: 50%;" width="200">
 </div>
 I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). Before my Ph.D., I was a master student at Sharif University of Technology.
 
 
 <!-- I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). Before my Ph.D., I was a master student at Sharif University of Technology. -->
 
-[<img src="https://freepngimg.com/thumb/gmail/64669-icons-computer-mail-email-address-free-frame.png" height="42px">](mailto:amir.kh@unibas.ch) &nbsp;&nbsp;&nbsp; [<img src="google-scholar.svg" height="40px">](https://scholar.google.com/citations?user=Rou2vXcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95)
+[<img src="https://freepngimg.com/thumb/gmail/64669-icons-computer-mail-email-address-free-frame.png" height="42px">](mailto:amir.kh@unibas.ch) &nbsp;&nbsp;&nbsp; [<img src="photos/google-scholar.svg" height="40px">](https://scholar.google.com/citations?user=Rou2vXcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95)
 &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" height="40px">](https://www.linkedin.com/in/amir-ehsan/)
 
 
