@@ -1,9 +1,8 @@
 
 
 <div>
-	<p>I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). Before my Ph.D., I was a master student at Sharif University of Technology.</p>
-    <img src="https://sada.dmi.unibas.ch/gallery/full/146/70739@2x.jpg" style="border-radius: 50%;" width="300" style="float: left; margin-left: 20px;">
-
+	I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). Before my Ph.D., I was a master student at Sharif University of Technology.
+    <p>  <img src="https://sada.dmi.unibas.ch/gallery/full/146/70739@2x.jpg" style="border-radius: 50%;" width="300" style="float: left; margin-left: 20px;"> </p>
 </div>
 
 <!-- I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). Before my Ph.D., I was a master student at Sharif University of Technology. -->
