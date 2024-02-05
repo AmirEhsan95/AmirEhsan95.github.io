@@ -68,12 +68,24 @@ AmirEhsan Khorashadizadeh, Konik Kothari, Leonardo Salsi, Ali Aghababaei Harandi
 <br><br>
 
 <div style="float: left; margin-right: 30px;">
+  <img src="https://sada.dmi.unibas.ch/gallery/preview/169/screenshot-2022-12-10-at-13-51-06@2x.png" width="350">
+</div>
+**Deep Variational Inverse Scattering** <br>
+AmirEhsan Khorashadizadeh, Ali Aghababaei, Tin Vlavsić, Hieu Nguyen and Ivan Dokmanić <br>
+**European Conference on Antennas and Propagation (EuCAP) 2023** <br> <br>
+[<img src="https://w7.pngwing.com/pngs/459/961/png-transparent-logo-web-development-site-web-design-symmetry-internet.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/U-Flow)
+&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2212.04309)
+
+
+<br><br>
+
+<div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/184/screenshot-2023-01-02-at-15-53-58@2x.png" width="350">
   <br><br>
 </div>
-**Deep Variational Inverse Scattering** <br>
+**Implicit Neural Representation for Mesh-Free Inverse Obstacle Scattering** <br>
 Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
-**European Conference on Antennas and Propagation (EuCAP) 2023** <br> <br>
+**Asilomar Conference on Signals, Systems, and Computers, 2022** <br> <br>
 [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2206.02027)
 
 
