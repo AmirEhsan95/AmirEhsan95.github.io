@@ -2,10 +2,6 @@
  * Site header
  */
 .site-header {
-  .container {
-    max-width: 2000px; // Set your desired max-width
-    margin: 0 auto;
-  }
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
@@ -207,10 +203,6 @@
  * Page content
  */
 .page-content {
-  .container {
-    max-width: 2000px; // Set your desired max-width
-    margin: 0 auto;
-  }
 
   padding: $spacing-unit 0;
   flex: 1 0 auto;
