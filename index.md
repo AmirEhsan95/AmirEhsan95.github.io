@@ -33,6 +33,7 @@ My research lies at the intersection of deep learning and computational imaging.
 
 <div style="float: left; margin-right: 30px;">
 <img src="figures/glimpse.png" width="350">
+<br> <br>
 </div>
 **GLIMPSE: Generalized Local Imaging with MLPs** <br>
 AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br>
