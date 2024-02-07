@@ -32,7 +32,7 @@ My research lies at the intersection of deep learning and computational imaging.
 <br>
 
 <div style="float: left; margin-right: 30px;">
-<img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="350">
+<img src="figures/glimpse.png" width="350">
 </div>
 **GLIMPSE: Generalized Local Imaging with MLPs** <br>
 AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br>
