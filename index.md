@@ -32,11 +32,25 @@ My research lies at the intersection of deep learning and computational imaging.
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="350">
 </div>
-**Deep Injective Prior for Inverse Scattering** <br>
-AmirEhsan Khorashadizadeh, Vahid Khorashadizadeh, Sepehr Eskandari, Guy A.E. Vandenbosch and Ivan Dokmanić <br>
-**IEEE Transactions on Antennas and Propagation 2023** <br> <br>
-[<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/scattering_injective_prior)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2301.03092)
+**GLIMPSE: Generalized Local Imaging with MLPs** <br>
+AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br>
+**Preprint 2024** <br> <br>
+[<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/Glimpse)
+&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2401.00816)
+
+
+
+<br>
+
+<div style="float: left; margin-right: 30px;">
+  <img src="https://sada.dmi.unibas.ch/gallery/preview/186/screenshot-2023-01-02-at-20-49-14@2x.png" width="350">
+  <br> <br>
+</div>
+**FunkNN: Neural Interpolation for Functional Generation** <br>
+AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot and Ivan Dokmanić <br>
+**ICLR 2023** <br> <br>
+[<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/implicit-neural-representation) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/FunkNN)
+&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2204.07664)
 
 
 <br>
