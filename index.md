@@ -1,6 +1,6 @@
 
 <div style="float: right; margin-left: 60px;">
-  <img src="figures/photo.jpg" style="border-radius: 70%;" width="250">
+  <img src="figures/photo1.jpg" style="border-radius: 70%;" width="250">
 </div>
 I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). Before my Ph.D., I was a master student at Sharif University of Technology.
 
@@ -32,8 +32,8 @@ My research lies at the intersection of deep learning and computational imaging.
 <br>
 
 <div style="float: left; margin-right: 30px;">
-<img src="figures/glimpse.png" width="350">
-<br> <br>
+  <img src="figures/glimpse.png" width="350">
+  <br> <br>
 </div>
 **GLIMPSE: Generalized Local Imaging with MLPs** <br>
 AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br>
