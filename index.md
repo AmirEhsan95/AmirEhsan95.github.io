@@ -39,7 +39,7 @@ My research lies at the intersection of deep learning and computational imaging.
 AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br>
 **Preprint 2024** <br> <br>
 [<img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" height="42px">](https://colab.research.google.com/drive/1f_YvD9WwKHN1NojIOC-HHGXAT4VgQHkz?usp=sharing)
-&nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/Glimpse)
+&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/Glimpse)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2401.00816)
 
 
