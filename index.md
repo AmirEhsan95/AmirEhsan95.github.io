@@ -26,7 +26,7 @@ I am a last-year Ph.D. student at the University of Basel and a visiting researc
 <br>
 
 ## Research
-My research lies at the intersection of deep learning and computational imaging. I am interested in building deep learning architectures for solving scientific inverse problems. My main focus is on generative models, and neural fields and representation learning. 
+My research lies at the intersection of deep learning and computational imaging. I am interested in building deep learning architectures for solving scientific inverse problems. My main focus is on generative models, neural fields and representation learning. 
 
 
 <br>
