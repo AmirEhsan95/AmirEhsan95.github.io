@@ -8,7 +8,7 @@ I am a last-year Ph.D. student at the University of Basel and a visiting researc
 [<img src="https://freepngimg.com/thumb/gmail/64669-icons-computer-mail-email-address-free-frame.png" height="42px">](mailto:amir.kh@unibas.ch) &nbsp;&nbsp;&nbsp; [<img src="figures/google-scholar.svg" height="40px">](https://scholar.google.com/citations?user=Rou2vXcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95) &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" height="40px">](https://www.linkedin.com/in/amir-ehsan/) &nbsp;&nbsp;&nbsp; [<img src="figures/cv.png" height="40px">](CV.pdf)
 
 <br><br>
-<span style="color:blue;">I am seeking a full-time position starting in Fall 2024. Please don't hesitate to reach out if my experience fits for your organization.</span>
+<span style="color:#006d8b;">I am seeking a full-time position starting in Fall 2024. Please don't hesitate to reach out if my experience fits for your organization.</span>
 
 
 ## News
@@ -40,7 +40,8 @@ My research lies at the intersection of deep learning and computational imaging.
 **GLIMPSE: Generalized Local Imaging with MLPs** <br>
 AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br>
 **Preprint 2024** <br> <br>
-[<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/Glimpse)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" height="42px">](https://colab.research.google.com/drive/1f_YvD9WwKHN1NojIOC-HHGXAT4VgQHkz?usp=sharing)
+&nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/Glimpse)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2401.00816)
 
 
