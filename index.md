@@ -10,7 +10,6 @@ I am a last-year Ph.D. student at the University of Basel and a visiting researc
 <br><br>
 <span style="color:blue;">I am seeking a full-time position starting in Fall 2024. Please don't hesitate to reach out if my experience fits for your organization.</span>
 
-<br><br>
 
 ## News
 
