@@ -2,7 +2,8 @@
 <div style="float: right; margin-left: 60px;">
   <img src="figures/photo1.jpg" style="border-radius: 70%;" width="250">
 </div>
-I am a last-year Ph.D. student at the University of Basel. I was a researcher at University College London (UCL) for 9 months in 2023. I work with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). My research lies at the intersection of machine learning and computational imaging.
+I am a last-year Ph.D. student at the University of Basel. I was a researcher at University College London (UCL) for 9 months in 2023. I work with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). My research lies at the intersection of deep learning and computational imaging. I am interested in building physics-informed neural networks for solving scientific inverse problems.
+
 
 
 [<img src="https://freepngimg.com/thumb/gmail/64669-icons-computer-mail-email-address-free-frame.png" height="42px">](mailto:amir.kh@unibas.ch) &nbsp;&nbsp;&nbsp; [<img src="figures/google-scholar.svg" height="40px">](https://scholar.google.com/citations?user=Rou2vXcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95) &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" height="40px">](https://www.linkedin.com/in/amir-ehsan/) 
@@ -26,13 +27,6 @@ I am a last-year Ph.D. student at the University of Basel. I was a researcher at
 * **Jun 2021**: Our [paper](https://proceedings.mlr.press/v161/kothari21a.html) has been accepted by the Conference on Uncertainty in Artificial Intelligence (UAI 2021).
 * **April 2020**: I started my Ph.D. at the [SADA](https://sada.dmi.unibas.ch/en/) group, University of Basel.
 
-<br>
-
-## Research
-My research lies at the intersection of deep learning and computational imaging. I am interested in building deep learning architectures for solving scientific inverse problems. My main focus is on generative models, neural fields and representation learning. 
-
-
-<br>
 
 <div style="float: left; margin-right: 30px;">
   <img src="figures/glimpse.png" width="350">
