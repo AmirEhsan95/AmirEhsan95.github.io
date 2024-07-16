@@ -2,7 +2,7 @@
 <div style="float: right; margin-left: 60px;">
   <img src="figures/photo1.jpg" style="border-radius: 70%;" width="250">
 </div>
-I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/).
+I am a last-year Ph.D. student at the University of Basel. I was a researcher at University College London (UCL) for 9 months in 2023. I work with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). My research lies at the intersection of machine learning and computational imaging.
 
 
 [<img src="https://freepngimg.com/thumb/gmail/64669-icons-computer-mail-email-address-free-frame.png" height="42px">](mailto:amir.kh@unibas.ch) &nbsp;&nbsp;&nbsp; [<img src="figures/google-scholar.svg" height="40px">](https://scholar.google.com/citations?user=Rou2vXcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95) &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" height="40px">](https://www.linkedin.com/in/amir-ehsan/) 
