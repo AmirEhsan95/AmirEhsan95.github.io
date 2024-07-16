@@ -2,7 +2,7 @@
 <div style="float: right; margin-left: 60px;">
   <img src="figures/photo1.jpg" style="border-radius: 70%;" width="250">
 </div>
-I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). Before my Ph.D., I was a master student at Sharif University of Technology.
+I am a last-year Ph.D. student at the University of Basel and a visiting researcher at University College London (UCL). I am working under the supervision of [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/).
 
 
 [<img src="https://freepngimg.com/thumb/gmail/64669-icons-computer-mail-email-address-free-frame.png" height="42px">](mailto:amir.kh@unibas.ch) &nbsp;&nbsp;&nbsp; [<img src="figures/google-scholar.svg" height="40px">](https://scholar.google.com/citations?user=Rou2vXcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95) &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" height="40px">](https://www.linkedin.com/in/amir-ehsan/) 
@@ -15,7 +15,7 @@ I am a last-year Ph.D. student at the University of Basel and a visiting researc
 ## News
 
 * **July 2024**: I have been invited by the Signal Processing Society (SPS) to present a [webinar](https://signalprocessingsociety.org/blog/sps-webinar-deep-generative-models-bayesian-imaging) on deep generative models for Bayesian imaging.
-* **May 2024**: I presented a talk on physics-informed neural networks for cosmological imaging at the [Cosmo 21 Conference](https://cosmo21.cosmostat.org/) in Chania, Greece.
+* **May 2024**: I give a talk on physics-informed neural networks for cosmological inverse problems at the [Cosmo 21 Conference](https://cosmo21.cosmostat.org/) in Chania, Greece.
 * **Jan 2024**: Our recent [preprint](https://arxiv.org/abs/2401.00816) is now available on ArXiv.
 * **Nov 2023**: Our [paper](https://ieeexplore.ieee.org/abstract/document/10054422) "Conditional Injective Flows for Bayesian Imaging" is among the top 25 most downloaded papers in IEEE Transactions on Computational Imaging (TCI) from Sept. 2022 - Sept. 2023.
 * **Aug 2023**: Our [paper](https://ieeexplore.ieee.org/abstract/document/10250175) "Deep Injective Prior for Inverse Scattering" has been accepted by IEEE Transactions on Antennas and Propagation.
