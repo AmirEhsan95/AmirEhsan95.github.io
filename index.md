@@ -29,13 +29,10 @@ I am a last-year Ph.D. student at the University of Basel. I was a researcher at
 
 
 <br><br>
-<br><br>
-<br><br>
-
 
 ## Publications
 
-<br><br>
+<br>
 
 
 <div style="float: left; margin-right: 30px;">
