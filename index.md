@@ -2,7 +2,7 @@
 <div style="float: right; margin-left: 60px;">
   <img src="figures/photo1.jpg" style="border-radius: 70%;" width="250">
 </div>
-I am a postdoctoral fellow in Computational X-ray Imaging group at EPFL and Paul Scherrer Institute (PSI). My research lies at the intersection of machine learning and computational imaging, with a particularfocus on developing physics-informed neural networks for imaging inverse problems. Currently, I am collaborate with the Swiss Data Science Center (SDSC) on the CHIP project, "MaCHIne-Learning-assisted Ptychographic nanotomography". 
+I am a postdoctoral fellow in Computational X-ray Imaging group at [EPFL](https://www.epfl.ch/labs/cxi/) and [Paul Scherrer Institute (PSI)](https://www.psi.ch/en/cxi) working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). My research lies at the intersection of machine learning and computational imaging, with a particularfocus on developing physics-informed neural networks for imaging inverse problems. Currently, I am collaborate with the [Swiss Data Science Center (SDSC)](https://www.datascience.ch/) on the [CHIP](https://www.datascience.ch/projects/chip) project, "MaCHIne-Learning-assisted Ptychographic nanotomography". 
 
 I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from University of Basel in Switzerland. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I was working with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
 
