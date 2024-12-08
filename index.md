@@ -2,7 +2,9 @@
 <div style="float: right; margin-left: 60px;">
   <img src="figures/photo1.jpg" style="border-radius: 70%;" width="250">
 </div>
-I am a last-year Ph.D. student at the University of Basel. I was a researcher at University College London (UCL) for 9 months in 2023. I work with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) and [Prof. Jason McEwen](http://www.jasonmcewen.org/). My research lies at the intersection of deep learning and computational imaging. I am interested in building physics-informed neural networks for solving scientific inverse problems.
+I am a postdoctoral fellow in Computational X-ray Imaging group at EPFL and Paul Scherrer Institute (PSI). My research lies at the intersection of machine learning and computational imaging, with a particularfocus on developing physics-informed neural networks for imaging inverse problems. Currently, I am collaborate with the Swiss Data Science Center (SDSC) on the CHIP project, "MaCHIne-Learning-assisted Ptychographic nanotomography". 
+
+I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from University of Basel in Switzerland. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I was working with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
 
 
 
@@ -15,6 +17,7 @@ I am a last-year Ph.D. student at the University of Basel. I was a researcher at
 
 ## News
 
+* **November 2024**: Our recent [preprint](https://arxiv.org/abs/2411.04995) is now available on ArXiv.
 * **September 2024**: I am thrilled to announce that I have successfully defended my PhD! 🎓 My thesis is now available [here](https://drive.google.com/file/d/1BKRU1HBcKnjuExA7cS0kvrQBV5G25mfv/view?usp=sharing).
 * **July 2024**: I have been invited by the Signal Processing Society (SPS) to present a [webinar](https://signalprocessingsociety.org/blog/sps-webinar-deep-generative-models-bayesian-imaging) on deep generative models for Bayesian imaging.
 * **May 2024**: I give a talk on physics-informed neural networks for cosmological inverse problems at the [Cosmo 21 Conference](https://cosmo21.cosmostat.org/) in Chania, Greece.
