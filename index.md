@@ -18,7 +18,7 @@ I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/peop
 ## News
 
 * **November 2024**: Our recent [preprint](https://arxiv.org/abs/2411.04995) is now available on ArXiv.
-* **September 2024**: I am thrilled to announce that I have successfully defended my PhD! 🎓 My thesis is now available [here](https://drive.google.com/file/d/1BKRU1HBcKnjuExA7cS0kvrQBV5G25mfv/view?usp=sharing).
+* **September 2024**: I am thrilled to announce that I have successfully defended my PhD! 🎓 My thesis is now available [here](https://edoc.unibas.ch/96769/).
 * **July 2024**: I have been invited by the Signal Processing Society (SPS) to present a [webinar](https://signalprocessingsociety.org/blog/sps-webinar-deep-generative-models-bayesian-imaging) on deep generative models for Bayesian imaging.
 * **May 2024**: I give a talk on physics-informed neural networks for cosmological inverse problems at the [Cosmo 21 Conference](https://cosmo21.cosmostat.org/) in Chania, Greece.
 * **Jan 2024**: Our recent [preprint](https://arxiv.org/abs/2401.00816) is now available on ArXiv.
