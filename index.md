@@ -52,11 +52,11 @@ AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br
 
 
 
-<br>
+<br> <be> <br>
 
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/186/screenshot-2023-01-02-at-20-49-14@2x.png" width="350">
-  <br>
+  <br> <br> <br>
 </div>
 **FunkNN: Neural Interpolation for Functional Generation** <br>
 AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot and Ivan Dokmanić <br>
