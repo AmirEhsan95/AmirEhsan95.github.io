@@ -16,7 +16,7 @@ I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/peop
 
 
 ## News
-* **May 2025**: [GLIMPSE]([https://arxiv.org/abs/2411.04995](https://ieeexplore.ieee.org/document/11018464)) published in IEEE Transactions on Medical Imaging.
+* **May 2025**: [GLIMPSE](https://arxiv.org/abs/2411.04995](https://ieeexplore.ieee.org/document/11018464) published in IEEE Transactions on Medical Imaging.
 * **November 2024**: Our recent [preprint](https://arxiv.org/abs/2411.04995) is now available on ArXiv.
 * **September 2024**: I am thrilled to announce that I have successfully defended my PhD! 🎓 My thesis is now available [here](https://edoc.unibas.ch/96769/).
 * **July 2024**: I have been invited by the Signal Processing Society (SPS) to present a [webinar](https://signalprocessingsociety.org/blog/sps-webinar-deep-generative-models-bayesian-imaging) on deep generative models for Bayesian imaging.
