@@ -1,6 +1,6 @@
 
 <div style="float: right; margin-left: 60px;">
-  <img src="figures/photo1.jpg" style="border-radius: 70%;" width="250">
+  <img src="figures/photo1.jpg" style="border-radius: 70%;" width="270">
 </div>
 I am a postdoctoral researcher in [Computational X-ray Imaging group](https://www.psi.ch/de/people/amirehsan-khorashadizadeh) at [EPFL](https://www.epfl.ch/labs/cxi/) and [Paul Scherrer Institute (PSI)](https://www.psi.ch/en/cxi), working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). My research lies at the intersection of machine learning and computational imaging, with a focus on diffractive imaging and tomography for 3D reconstruction using deep learning. I process the imaging data collected at the [Swiss Light Source (SLS)](https://www.psi.ch/en/sls) and collaborate with the [Swiss Data Science Center (SDSC)](https://www.datascience.ch/) on the [CHIP](https://www.datascience.ch/projects/chip) project, MaCHIne-Learning-assisted Ptychographic nanotomography. 
 
