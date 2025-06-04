@@ -1,6 +1,6 @@
 
 <div style="float: right; margin-left: 60px;">
-  <img src="figures/photo1.jpg" style="border-radius: 70%;" width="270">
+  <img src="figures/photo1.jpg" style="border-radius: 70%;" width="300">
 </div>
 I am a postdoctoral researcher in [Computational X-ray Imaging group](https://www.psi.ch/de/people/amirehsan-khorashadizadeh) at [EPFL](https://www.epfl.ch/labs/cxi/) and [Paul Scherrer Institute (PSI)](https://www.psi.ch/en/cxi), working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). My research lies at the intersection of machine learning and computational imaging, with a focus on diffractive imaging and tomography for 3D reconstruction using deep learning. I process the imaging data collected at the [Swiss Light Source (SLS)](https://www.psi.ch/en/sls) and collaborate with the [Swiss Data Science Center (SDSC)](https://www.datascience.ch/) on the [CHIP](https://www.datascience.ch/projects/chip) project, MaCHIne-Learning-assisted Ptychographic nanotomography. 
 
@@ -16,7 +16,7 @@ I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/peop
 
 
 ## News
-
+* **May 2025**: [GLIMPSE]([https://arxiv.org/abs/2411.04995](https://ieeexplore.ieee.org/document/11018464)) published in IEEE Transactions on Medical Imaging.
 * **November 2024**: Our recent [preprint](https://arxiv.org/abs/2411.04995) is now available on ArXiv.
 * **September 2024**: I am thrilled to announce that I have successfully defended my PhD! 🎓 My thesis is now available [here](https://edoc.unibas.ch/96769/).
 * **July 2024**: I have been invited by the Signal Processing Society (SPS) to present a [webinar](https://signalprocessingsociety.org/blog/sps-webinar-deep-generative-models-bayesian-imaging) on deep generative models for Bayesian imaging.
