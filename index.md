@@ -4,7 +4,7 @@
 </div>
 I am a postdoctoral researcher in [Computational X-ray Imaging group](https://www.psi.ch/de/people/amirehsan-khorashadizadeh) at [EPFL](https://www.epfl.ch/labs/cxi/) and [Paul Scherrer Institute (PSI)](https://www.psi.ch/en/cxi), working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). My research lies at the intersection of machine learning and computational imaging, with a focus on diffractive imaging and tomography for 3D reconstruction using deep learning. I process the imaging data collected at the [Swiss Light Source (SLS)](https://www.psi.ch/en/sls) and collaborate with the [Swiss Data Science Center (SDSC)](https://www.datascience.ch/) on the [CHIP](https://www.datascience.ch/projects/chip) project, MaCHIne-Learning-assisted Ptychographic nanotomography. 
 
-I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from University of Basel in Switzerland. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I was working with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
+I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from University of Basel in Switzerland. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I worked with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
 
 
 
@@ -52,7 +52,7 @@ AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br
 
 
 
-<br> <be> <br>
+<br> <br> <br>
 
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/186/screenshot-2023-01-02-at-20-49-14@2x.png" width="350">
@@ -60,12 +60,12 @@ AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br
 </div>
 **FunkNN: Neural Interpolation for Functional Generation** <br>
 AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot and Ivan Dokmanić <br>
-**ICLR 2023** <br> <br>
+**ICLR 2023** <br> <br> <br>
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/implicit-neural-representation) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/FunkNN)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2204.07664)
 
 
-<br>
+<br> <br>
 
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/192/screenshot-2023-01-03-at-11-10-37@2x.png" width="350">
