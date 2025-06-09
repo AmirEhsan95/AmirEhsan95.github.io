@@ -40,7 +40,7 @@ I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/peop
 
 
 <div style="float: left; margin-right: 30px;">
-  <img src="figures/LoFi.png" width="350">
+  <img src="figures/LoFi.jpg" width="350">
   <br> <br>
 </div>
 **Lofi: Neural local fields for scalable image reconstruction** <br>
