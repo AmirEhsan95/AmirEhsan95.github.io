@@ -50,7 +50,7 @@ AmirEhsan Khorashadizadeh, Tob ́ıas I. Liaudat, Tianlin Liu, Jason D. McEwen a
 &nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">]([https://github.com/swing-research/Glimpse](https://github.com/AmirEhsan95/LoFi))
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/pdf/2411.04995?)
 
-<br>
+<br><br><br>
 
 
 <div style="float: left; margin-right: 30px;">
