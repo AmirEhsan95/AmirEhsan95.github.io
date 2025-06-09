@@ -36,7 +36,7 @@ I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/peop
 
 ## Publications
 
-<be>
+<br>
 
 
 <div style="float: left; margin-right: 30px;">
