@@ -40,7 +40,7 @@ I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/peop
 
 
 <div style="float: left; margin-right: 30px;">
-  <img src="figures/CryoLithe.jpg" width="350">
+  <img src="figures/CryoLithe.jpeg" width="350">
   <br> <br>
 </div>
 **End-to-end localized deep learning for Cryo-ET** <br>
@@ -67,7 +67,7 @@ AmirEhsan Khorashadizadeh, Tob ́ıas I. Liaudat, Tianlin Liu, Jason D. McEwen a
 
 
 <div style="float: left; margin-right: 30px;">
-  <img src="figures/glimpse.png" width="350">
+  <img src="figures/glimpse.jpg" width="350">
   <br> <br>
 </div>
 **GLIMPSE: Generalized Locality for Scalable and Robust CT** <br>
