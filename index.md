@@ -59,8 +59,8 @@ Ivan Dokmanić <br>
 </div>
 **Lofi: Neural local fields for scalable image reconstruction** <br>
 AmirEhsan Khorashadizadeh, Tob ́ıas I. Liaudat, Tianlin Liu, Jason D. McEwen and Ivan Dokmanić <br>
-**IEEE Transactions on Medical Computational 2025** <br> <br>
-<!-- [<img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" height="30px">](https://colab.research.google.com/drive/1f_YvD9WwKHN1NojIOC-HHGXAT4VgQHkz?usp=sharing) -->
+**IEEE Transactions on Computational 2025** <br> <br>
+[<img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" height="30px">](https://colab.research.google.com/drive/1gDVtX6LmV8fo1AnvZHm-HGgQ6cXfXAEY?usp=sharing)
 &nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95/LoFi)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/pdf/2411.04995)
 
