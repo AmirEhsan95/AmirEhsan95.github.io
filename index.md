@@ -8,7 +8,8 @@ Before joining SDSC, I was a postdoctoral researcher in [Computational X-ray Ima
 
 
 
-[<img src="https://freepngimg.com/thumb/gmail/64669-icons-computer-mail-email-address-free-frame.png" height="42px">](mailto:amir.kh@unibas.ch) &nbsp;&nbsp;&nbsp; [<img src="figures/google-scholar.svg" height="40px">](https://scholar.google.com/citations?user=Rou2vXcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95) &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" height="40px">](https://www.linkedin.com/in/amir-ehsan/) 
+[<img src="https://freepngimg.com/thumb/gmail/64669-icons-computer-mail-email-address-free-frame.png" height="42px">](mailto:amir.kh@unibas.ch) &nbsp;&nbsp;&nbsp; [<img src="figures/google-scholar.svg" height="40px">](https://scholar.google.com/citations?user=Rou2vXcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95) &nbsp;&nbsp;&nbsp; 
+<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" height="40px">](https://www.linkedin.com/in/amir-ehsan/)  -->
 <!-- &nbsp;&nbsp;&nbsp; [<img src="figures/cv.png" height="40px">](CV.pdf) -->
 
 <br><br>
@@ -16,6 +17,7 @@ Before joining SDSC, I was a postdoctoral researcher in [Computational X-ray Ima
 
 
 ## News
+* **Feb 2026**: I am excited to start my new position as a senior data scientist in the SDSC hub at PSI.
 * **July 2025**: [LoFi](https://ieeexplore.ieee.org/document/11108275) published in IEEE Transactions on Computational Imaging.
 * **May 2025**: [GLIMPSE](https://ieeexplore.ieee.org/document/11018464) published in IEEE Transactions on Medical Imaging.
 * **November 2024**: Our recent [preprint](https://arxiv.org/abs/2411.04995) is now available on ArXiv.
