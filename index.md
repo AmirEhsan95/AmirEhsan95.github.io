@@ -151,7 +151,7 @@ Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
 </div>
 **Trumpets: Injective flows for inference and inverse problems** <br>
 Konik Kothari, AmirEhsan Khorashadizadeh, Maarten de Hoop and Ivan Dokmanić <br>
-**UAI 2021** <br> 
+**UAI 2021** <br> <br>
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/trumpets)
 &nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2102.10461)
 
