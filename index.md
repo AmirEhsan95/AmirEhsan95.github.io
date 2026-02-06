@@ -2,9 +2,9 @@
 <div style="float: right; margin-left: 60px;">
   <img src="figures/photo1.jpg" style="border-radius: 70%;" width="300">
 </div>
-I am a postdoctoral researcher in [Computational X-ray Imaging group](https://www.psi.ch/de/people/amirehsan-khorashadizadeh) at [Paul Scherrer Institute (PSI)](https://www.psi.ch/en/cxi) and [EPFL](https://www.epfl.ch/labs/cxi/), working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). My research lies at the intersection of machine learning and computational imaging, with a focus on diffractive imaging and tomography for 3D reconstruction using deep learning. I process the imaging data collected at the [Swiss Light Source (SLS)](https://www.psi.ch/en/sls) and collaborate with the [Swiss Data Science Center (SDSC)](https://www.datascience.ch/) on the [CHIP](https://www.datascience.ch/projects/chip) project, MaCHIne-Learning-assisted Ptychographic nanotomography. 
+I am a senior data scientist at Swiss Data Science Center ([SDSC](https://datascience.ch/)) and Paul Scherrer Institute ([PSI](https://www.psi.ch/en)). My research lies at the intersection of machine learning and computational imaging, with a focus on diffractive imaging and tomography for 3D reconstruction using deep learning. 
 
-I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from University of Basel in Switzerland. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I worked with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
+Before joining SDSC, I was a postdoctoral researcher in [Computational X-ray Imaging group](https://www.epfl.ch/labs/cxi/) at PSI and EPFL.(https://www.epfl.ch/labs/cxi/), working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from University of Basel in Switzerland. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I worked with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
 
 
 
@@ -154,7 +154,7 @@ Konik Kothari, AmirEhsan Khorashadizadeh, Maarten de Hoop and Ivan Dokmanić <br
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/trumpets)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2102.10461)
 
-
+<br><br>
 
 
 
