@@ -4,7 +4,7 @@
 </div>
 I am a senior data scientist at Swiss Data Science Center ([SDSC](https://datascience.ch/)) hub at Paul Scherrer Institute ([PSI](https://www.psi.ch/en/lsm/sdsc-hub-at-psi)). SDSC is a national research infrastructure in data science within ETH Zurich, EPFL, and PSI. My research focuses on machine learning for scientific discovery and healthcare, with particular emphasis on deep learning for computational imaging and inverse problems, generative AI, and foundation models for science and medicine. 
 
-Before joining SDSC, I was a postdoctoral researcher in [Computational X-ray Imaging group](https://www.epfl.ch/labs/cxi/) at PSI and EPFL.(https://www.epfl.ch/labs/cxi/), working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from University of Basel in Switzerland. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I worked with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
+Before joining SDSC, I was a postdoctoral researcher in [Computational X-ray Imaging group](https://www.epfl.ch/labs/cxi/) at PSI and EPFL, working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from the University of Basel. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I worked with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
 
 
 
@@ -143,14 +143,13 @@ Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
 
 
 <br><br><br> 
-
 <div style="float: left; margin-right: 30px;">
   <img src="https://sada.dmi.unibas.ch/gallery/preview/110/networkat2x@2x.png" width="350">
-  <br> <br>
+  <br>
 </div>
 **Trumpets: Injective flows for inference and inverse problems** <br>
 Konik Kothari, AmirEhsan Khorashadizadeh, Maarten de Hoop and Ivan Dokmanić <br>
-**UAI 2021** <br> <br>
+**UAI 2021** <br> 
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/trumpets)
 &nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2102.10461)
 
