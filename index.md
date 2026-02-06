@@ -49,7 +49,7 @@ Vinith Kishore, Valentin Debarnot, Ricardo D. Righetto, AmirEhsan Khorashadizade
 Ivan Dokmanić <br>
 **Under review 2025** <br> <br>
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/cryo-electron-tomography) &nbsp;&nbsp;&nbsp;[<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/CryoLithe)
-&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="42px">](https://arxiv.org/pdf/2501.15246)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/pdf/2501.15246)
 
 <br><br><br>
 
@@ -62,7 +62,7 @@ AmirEhsan Khorashadizadeh, Tob ́ıas I. Liaudat, Tianlin Liu, Jason D. McEwen a
 **IEEE Transactions on Computational 2025** <br> <br>
 [<img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" height="30px">](https://colab.research.google.com/drive/1gDVtX6LmV8fo1AnvZHm-HGgQ6cXfXAEY?usp=sharing)
 &nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/AmirEhsan95/LoFi)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/pdf/2411.04995)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/pdf/2411.04995)
 
 <br><br><br>
 
@@ -76,7 +76,7 @@ AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br
 **IEEE Transactions on Medical Imaging 2025** <br> <br>
 [<img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" height="30px">](https://colab.research.google.com/drive/1f_YvD9WwKHN1NojIOC-HHGXAT4VgQHkz?usp=sharing)
 &nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/Glimpse)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2401.00816)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2401.00816)
 
 
 
@@ -90,7 +90,7 @@ AmirEhsan Khorashadizadeh, Valentin Debarnot, Tianlin Liu and Ivan Dokmanić <br
 AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot and Ivan Dokmanić <br>
 **ICLR 2023** <br> <br> <br>
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/implicit-neural-representation) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/FunkNN)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2204.07664)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2204.07664)
 
 
 <br> <br>
@@ -102,7 +102,7 @@ AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot and Ivan Dokmanić <b
 AmirEhsan Khorashadizadeh, Vahid Khorashadizadeh, Sepehr Eskandari, Guy A.E. Vandenbosch and Ivan Dokmanić <br>
 **IEEE Transactions on Antennas and Propagation 2023** <br> <br>
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/scattering_injective_prior)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2301.03092)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2301.03092)
 
 
 
@@ -115,7 +115,7 @@ AmirEhsan Khorashadizadeh, Vahid Khorashadizadeh, Sepehr Eskandari, Guy A.E. Van
 AmirEhsan Khorashadizadeh, Konik Kothari, Leonardo Salsi, Ali Aghababaei Harandi, Maarten de Hoop and Ivan Dokmanić <br>
 **IEEE Transactions on Computational Imaging 2023** <br> <br>
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/conditional-trumpets)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2204.07664)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2204.07664)
 
 
 <br>
@@ -127,7 +127,7 @@ AmirEhsan Khorashadizadeh, Konik Kothari, Leonardo Salsi, Ali Aghababaei Harandi
 AmirEhsan Khorashadizadeh, Ali Aghababaei, Tin Vlavsić, Hieu Nguyen and Ivan Dokmanić <br>
 **European Conference on Antennas and Propagation (EuCAP) 2023** <br> <br>
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/U-Flow)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2212.04309)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2212.04309)
 
 
 <br>
@@ -139,7 +139,7 @@ AmirEhsan Khorashadizadeh, Ali Aghababaei, Tin Vlavsić, Hieu Nguyen and Ivan Do
 **Implicit Neural Representation for Mesh-Free Inverse Obstacle Scattering** <br>
 Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
 **Asilomar Conference on Signals, Systems, and Computers 2022** <br> <br>
-[<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2206.02027)
+[<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2206.02027)
 
 
 <br><br><br> 
@@ -151,7 +151,7 @@ Tin Vlašić, Hieu Nguyen, AmirEhsan Khorashadizadeh and Ivan Dokmanić <br>
 Konik Kothari, AmirEhsan Khorashadizadeh, Maarten de Hoop and Ivan Dokmanić <br>
 **UAI 2021** <br> 
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/injective-flows) &nbsp;&nbsp;&nbsp; [<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/trumpets)
-&nbsp;&nbsp;&nbsp; [<img src="https://cis.cornell.edu/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202018-09-04%20at%2010.17.51%20AM.png?itok=dxbUcd1u" height="30px">](https://arxiv.org/abs/2102.10461)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2102.10461)
 
 <br><br><br>
 
