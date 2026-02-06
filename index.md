@@ -2,7 +2,7 @@
 <div style="float: right; margin-left: 60px;">
   <img src="figures/photo1.jpg" style="border-radius: 70%;" width="300">
 </div>
-I am a senior data scientist at Swiss Data Science Center ([SDSC](https://datascience.ch/)) and Paul Scherrer Institute ([PSI](https://www.psi.ch/en)). My research is about machine learning for scientific discovery and healthcare, in particular for computational imaging and medical image analysis. In particular, I am interested in deep learning for 3D reconstruction and inverse problems, generative AI, and foundation models for science and medicine. 
+I am a senior data scientist at Swiss Data Science Center ([SDSC](https://datascience.ch/)) hub at Paul Scherrer Institute ([PSI](https://www.psi.ch/en/lsm/sdsc-hub-at-psi)). SDSC is a national research infrastructure in data science within the ETH Zurich, EPFL, and PSI. My research focuses on machine learning for scientific discovery and healthcare, with particular emphasis on deep learning for computational imaging and inverse problems, generative AI, and foundation models for science and medicine. 
 
 Before joining SDSC, I was a postdoctoral researcher in [Computational X-ray Imaging group](https://www.epfl.ch/labs/cxi/) at PSI and EPFL.(https://www.epfl.ch/labs/cxi/), working with [Prof. Manuel Guizar Sicairos](https://people.epfl.ch/manuel.guizar?lang=en). I obtained my PhD with [Prof. Ivan Dokmanić](https://sada.dmi.unibas.ch/en/people/head-of-sada/ivan-dokmanic) in Computer Science from University of Basel in Switzerland. During my PhD, I was awarded a prestigious grant to spend nine months as a visiting researcher at University College London (UCL), where I worked with [Prof. Jason McEwen](http://www.jasonmcewen.org/) on cosmological imaging problems.
 
