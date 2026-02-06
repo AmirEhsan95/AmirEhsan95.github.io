@@ -49,7 +49,7 @@ Vinith Kishore, Valentin Debarnot, Ricardo D. Righetto, AmirEhsan Khorashadizade
 Ivan Dokmanić <br>
 **Under review 2025** <br> <br>
 [<img src="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNC1udW5ueS0xNC5wbmc.png" height="30px">](https://sada.dmi.unibas.ch/en/research/cryo-electron-tomography) &nbsp;&nbsp;&nbsp;[<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="42px">](https://github.com/swing-research/CryoLithe)
-&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logo-primary.jpg" height="30px">](https://arxiv.org/pdf/2501.15246)
+&nbsp;&nbsp;&nbsp; [<img src="https://info.arxiv.org/brand/images/brand-logo-primary.jpg" height="42px">](https://arxiv.org/pdf/2501.15246)
 
 <br><br><br>
 
