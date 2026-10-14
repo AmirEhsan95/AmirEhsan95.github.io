@@ -1,6 +1,6 @@
 
 <div style="float: right; margin-left: 60px;">
-  <img src="figures/photo1.jpg" style="border-radius: 70%;" width="300">
+  <img src="figures/photo2.jpg" style="border-radius: 70%;" width="300">
 </div>
 I am a senior data scientist at Swiss Data Science Center ([SDSC](https://datascience.ch/)) hub at Paul Scherrer Institute ([PSI](https://www.psi.ch/en/lsm/sdsc-hub-at-psi)). SDSC is a national research infrastructure in data science within ETH Zurich, EPFL, and PSI. My research focuses on machine learning for scientific discovery and healthcare, with particular emphasis on deep learning for computational imaging and inverse problems, generative AI, and foundation models for science and medicine. 
 
