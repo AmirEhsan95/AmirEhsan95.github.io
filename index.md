@@ -17,6 +17,7 @@ Before joining SDSC, I was a postdoctoral researcher in [Computational X-ray Ima
 
 
 ## News
+* **Sep 2026**: Our recent preprint [TomoTransformer](https://arxiv.org/abs/2609.37605), towards a foundation model for CT reconstruction, is now available on ArXiv.
 * **Feb 2026**: I am excited to start my new position as a senior data scientist in the SDSC hub at PSI.
 * **July 2025**: [LoFi](https://ieeexplore.ieee.org/document/11108275) published in IEEE Transactions on Computational Imaging.
 * **May 2025**: [GLIMPSE](https://ieeexplore.ieee.org/document/11018464) published in IEEE Transactions on Medical Imaging.
@@ -41,6 +42,17 @@ Before joining SDSC, I was a postdoctoral researcher in [Computational X-ray Ima
 
 <br>
 
+
+<div style="float: left; margin-right: 30px;">
+  <img src="figures/TomoTransformer.jpg" width="350">
+  <br> <br>
+</div>
+**TomoTransformer: Towards a Foundation Model for CT Reconstruction** <br>
+AmirEhsan Khorashadizadeh and Benjamín Béjar <br>
+**arXiv preprint 2026** <br> <br>
+[<img src="https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg" height="40px">](https://arxiv.org/abs/2609.37605)
+
+<br><br><br>
 
 <div style="float: left; margin-right: 30px;">
   <img src="figures/CryoLithe.jpeg" width="350">
